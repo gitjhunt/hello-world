@@ -1,2 +1,5 @@
 # hello-world
-Firs repo
+
+Greetings!
+
+Trying something new today.
